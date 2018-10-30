@@ -1,0 +1,15 @@
+{
+  "name": "blockchain_node_ji",
+  "version": "1.0.0",
+  "description": "for blockchain_presentation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ji",
+  "license": "ISC",
+  "keywords": [
+    "node_network"
+  ]
+}
